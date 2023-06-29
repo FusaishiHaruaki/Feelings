@@ -1,4 +1,4 @@
 # Feelings
 
 
-[Website](./main.html)
+[Website](./main)
