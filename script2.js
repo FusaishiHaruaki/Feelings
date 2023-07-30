@@ -39,63 +39,63 @@ document.addEventListener("DOMContentLoaded", function() {
     }
     
     function Anger() {
-      redirectToPage('quote.html', 'Anger');
+      redirectToPage('page3.html', 'Anger');
     }
     
     function Anxious() {
-      redirectToPage('quote.html', 'Anxious');
+      redirectToPage('page3.html', 'Anxious');
     }
 
     function Embarrassed() {
-      redirectToPage('quote.html', 'Embarrassed');
+      redirectToPage('page3.html', 'Embarrassed');
     }
 
     function Helpless() {
-      redirectToPage('quote.html', 'Helpless');
+      redirectToPage('page3.html', 'Helpless');
     }
 
     function Sad() {
-      redirectToPage('quote.html', 'Sad');
+      redirectToPage('page3.html', 'Sad');
     }
 
     function Confident() {
-      redirectToPage('quote.html', 'Confident');
+      redirectToPage('page3.html', 'Confident');
     }
 
     function Excited() {
-      redirectToPage('quote.html', 'Excited');
+      redirectToPage('page3.html', 'Excited');
     }
 
     function Content() {
-      redirectToPage('quote.html', 'Content');
+      redirectToPage('page3.html', 'Content');
     }
 
     function Happy() {
-      redirectToPage('quote.html', 'Happy');
+      redirectToPage('page3.html', 'Happy');
     }
 
     function Relaxed() {
-      redirectToPage('quote.html', 'Relaxed');
+      redirectToPage('page3.html', 'Relaxed');
     }
 
     function Bored() {
-      redirectToPage('quote.html', 'Bored');
+      redirectToPage('page3.html', 'Bored');
     }
 
     function Lazy() {
-      redirectToPage('quote.html', 'Lazy');
+      redirectToPage('page3.html', 'Lazy');
     }
 
     function Nervous() {
-      redirectToPage('quote.html', 'Nervous');
+      redirectToPage('page3.html', 'Nervous');
     }
 
     function Puzzled() {
-      redirectToPage('quote.html', 'Puzzled');
+      redirectToPage('page3.html', 'Puzzled');
     }
 
     function Hungry() {
-      redirectToPage('quote.html', 'Hungry');
+      redirectToPage('page3.html', 'Hungry');
     }
 
 
