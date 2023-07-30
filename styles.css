@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+  .title {
+    text-align: center;
+    margin-top: 180px;
+    font-size: 35px;
+    font-family: "Monaco", monospace;
+  }
+  
+  
+  .button-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  button {
+    padding: 40px 80px;
+    margin: 10px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+
+  .red {
+    background-color: rgb(155, 94, 94);
+  }
+  
+  .green {
+    background-color: rgb(33, 142, 33);
+  }
+  
+  .blue {
+    background-color: rgb(61, 144, 182);
+  }
+
+  button {
+    font-size: 16.5px; /* Increase the font size for the button text */
+  }
+  
